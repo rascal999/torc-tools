@@ -10,7 +10,7 @@ trap erase_temp_files SIGINT
 
 clear
 
-source config.sh
+source /root/tools/URLextractor/config.sh
 
 TARGET=$1
 
